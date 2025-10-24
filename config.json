@@ -1,0 +1,15 @@
+{
+  "tickers": [
+    "GLD",
+    "AAPL",
+    "MSFT",
+    "NVDA"
+  ],
+  "capital": 10000.0,
+  "risk_pct": 1.0,
+  "enable_news": true,
+  "fast_mode": true,
+  "macro_tilt": 0.1,
+  "out_dir": "reports",
+  "timezone": "America/Detroit"
+}
